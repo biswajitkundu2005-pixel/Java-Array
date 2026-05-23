@@ -11,8 +11,7 @@ public class Two_Dimensition {
 
         int[][] numbers = new int[rows][column];
 
-        //input
-        
+//Take input from user
         for(int i=0; i<rows; i++)//rows
         {
             //colmuns
@@ -29,9 +28,5 @@ public class Two_Dimensition {
             }
             System.out.println();
         }
-
-
-
-
     }
 }
